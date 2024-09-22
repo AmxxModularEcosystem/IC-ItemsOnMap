@@ -1,0 +1,10 @@
+{
+    "Delay": 0.5,
+    "Items": [
+        // {
+        //     "Type": "Weapon",
+        //     "Name": "weapon_scout",
+        //     "GiveType": "Replace"
+        // }
+    ]
+}
